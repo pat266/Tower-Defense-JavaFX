@@ -1,0 +1,44 @@
+.market {
+    -fx-background-color: #CCCCCC;
+    -fx-background: #CCCCCC;
+}
+.transparent_textfield {
+    -fx-background-color: #FFFFFF;
+}
+.search-box {
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 100;
+}
+.search-button {
+    -fx-background-color: #7a7a7a;
+    -fx-background-radius: 100;
+}
+.towerItem {
+    -fx-background-color: #FFFFFF;
+}
+.market_background {
+    /*-fx-background-image: url("https://static.wikia.nocookie.net/b__/images/8/85/Track2AA.PNG/revision/latest/scale-to-width-down/222?cb=20100926002912&path-prefix=bloons");*/
+    -fx-background-image: url("../img/Track1.png");
+    -fx-background-size: 100% 100%;
+}
+.tower_place_background {
+    /*-fx-background-image: url("/../img/placeHolder.png");*/
+    /*-fx-background-size: 100% 100%;*/
+    -fx-background-color: transparent;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position:left;
+}
+.exit_button {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-background-radius: 16px;
+}
+.restart_button {
+    -fx-background-color: green;
+    -fx-text-fill: black;
+    -fx-background-radius: 16px;
+}
+.upgrade-button {
+    -fx-background-color: #4d483c;
+    -fx-background-radius: 100;
+}
